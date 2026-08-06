@@ -7,7 +7,6 @@ A simple, interactive web-based birthday greeting card featuring custom styling 
  Demo
 
 View the live project on [GitHub Pages](https://your-username.github.io/Birthday_gift/)  
-(Replace `your-username` with your actual GitHub username)
 
 ---
 

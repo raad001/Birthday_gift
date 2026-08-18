@@ -66,7 +66,7 @@ const text =
 
 Thank you for being such an amazing friend.
 
-You bring happiness and good memories into people's lives.
+You bring happiness, good memories and posive vibes into people's lives around you.
 
 I hope your birthday is filled with laughter, love, and everything you wish for.
 

@@ -392,9 +392,7 @@ secretBtn.addEventListener("click",()=>{
     Thank you for being a wonderful person
     and bringing positive energy & hapiness to people around you.
 
-    Never forget how special you are and never stop chasing your goals
-    
-                BEST OF LUCK CHAMP💪✨
+    Never forget how special you are and never stop chasing your goals....BEST OF LUCK CHAMP💪✨
     </p>
 
     `;

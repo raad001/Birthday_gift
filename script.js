@@ -344,7 +344,7 @@ cake.addEventListener("click",()=>{
     if(wishMessage)
 
     wishMessage.textContent =
-    "✨ Your wish has been sent to the stars ❤️";
+    "✨YOUR WISH HAS BEEN SENT TO THE STARS❤️";
 
 
 
@@ -390,7 +390,7 @@ secretBtn.addEventListener("click",()=>{
     I hope your birthday is as amazing as you are.
 
     Thank you for being a wonderful person
-    and bringing happiness to people around you.
+    and bringing positive energy to people around you.
 
     Never forget how special you are ✨
     </p>
